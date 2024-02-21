@@ -43,6 +43,43 @@ structures.csv - this file contains the same information as the individual xyz s
 
 ![Screenshot 2024-02-21 223431](https://github.com/princesharma-10/R-Dashboard/assets/68159436/62a6b656-7199-4023-9919-2da4ead8e415)
 
+Conclusion-
+
+i) There are 8 molecule type 1JHC,1JHN,2JHC,2JHH,2JHN,3JHC,3JHH,3JHN
+ii) For 1JHC-The peak is between 75 and 100
+iii) 1JHN is scattered
+iv) 2JHC peak is around 0
+v) 2JHN peak is around -10
+vi) 2JHN is around 0
+vii) 3JHC peak is at 0
+viii) 3JHH is between 0 and 5
+ix) 3JHN is between 0 and 2.5
+The peak shows the Scaling Coupling Constant
+
+
+
+The goal is to predict the scalar coupling constant between atom pairs in molecules, given the atom types, coupling type, and features created from the molecule structure files.
+
+Using NMR to gain insight into a molecule’s structure and dynamics depends on the ability to accurately predict so-called “scalar couplings”. These are effectively the magnetic interactions between a pair of atoms. The strength of this magnetic interaction depends on intervening electrons and chemical bonds that make up a molecule’s three-dimensional structure.
+
+Using state-of-the-art methods from quantum mechanics, it is possible to accurately calculate scalar coupling constants given only a 3D molecular structure as input. However, these quantum mechanics calculations are extremely expensive (days or weeks per molecule), and therefore have limited applicability in day-to-day workflows.
+
+A fast and reliable method to predict these interactions will allow medicinal chemists to gain structural insights faster and cheaper, enabling scientists to understand how the 3D chemical structure of a molecule affects its properties and behavior.
+
+
+Ultimately, such tools will enable researchers to make progress in a range of important problems, like designing molecules to carry out specific cellular tasks, or designing better drug molecules to fight disease.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
