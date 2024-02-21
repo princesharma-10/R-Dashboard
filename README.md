@@ -3,6 +3,9 @@ Name-Prince Sharma
 Roll No- 27A
 MBA BA
 
+https://www.kaggle.com/princesharma10/r-dashboard/edit
+
+
 ![download](https://github.com/princesharma-10/R-Dashboard/assets/68159436/3f60293e-b5b3-4af4-9e3f-a0de2b667c61)
 
 train.csv - the training set, where the first column (molecule_name) is the name of the molecule where the coupling constant originates (the corresponding XYZ file is located at ./structures/.xyz), the second (atom_index_0) and third column (atom_index_1) is the atom indices of the atom-pair creating the coupling and the fourth column (scalar_coupling_constant) is the scalar coupling constant that we want to be able to predict
