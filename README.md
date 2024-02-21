@@ -25,3 +25,24 @@ structures.csv - this file contains the same information as the individual xyz s
 
 
 
+![Screenshot 2024-02-21 223354](https://github.com/princesharma-10/R-Dashboard/assets/68159436/fdb82ea9-887d-40c2-bdbc-a8365988160b)
+
+
+![Screenshot 2024-02-21 223405](https://github.com/princesharma-10/R-Dashboard/assets/68159436/161d01ce-8e2f-46ad-a61c-b172ed932d81)
+
+
+
+
+
+![Screenshot 2024-02-21 223414](https://github.com/princesharma-10/R-Dashboard/assets/68159436/545941d2-1943-4c28-a3c9-3c4d4ec371fd)
+
+
+![Screenshot 2024-02-21 223423](https://github.com/princesharma-10/R-Dashboard/assets/68159436/0d52c9de-4ec6-4d19-b06c-59587d523bbe)
+
+
+
+![Screenshot 2024-02-21 223431](https://github.com/princesharma-10/R-Dashboard/assets/68159436/62a6b656-7199-4023-9919-2da4ead8e415)
+
+
+
+
